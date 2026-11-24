@@ -1,0 +1,6 @@
+{
+  "name": "LexiQuest",
+  "description": "Ứng dụng trò chơi nhập vai đồ họa Pixel học tiếng Anh (Nghe – Đọc – Viết) qua lộ trình đánh quái, farm trang bị, quái tinh anh và chinh phục Boss 3 giai đoạn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
